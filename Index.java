@@ -5,7 +5,7 @@ class Index {
     int first = 100;
     int second = 200;
 
-    // add two numbers test d test test 
+    // add two numbers test d test test  ssss
     int sum = first + second;
     System.out.println(first + " + " + second + " hi to all = "  + sum);
   }
