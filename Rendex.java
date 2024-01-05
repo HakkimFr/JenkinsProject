@@ -5,7 +5,7 @@ class Rendex {
     int first = 100;
     int second = 200;
 
-    // add two numbers test d test test  ssss s  dsssd
+    // add two numbers test d tes
     int sum = first + second;s
     System.out.println(first + " + " + second + " hi to all = "  + sum);
   }
